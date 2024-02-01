@@ -1,5 +1,7 @@
 # 100 days of javascript
 
+## Incio dos desafios 01/02/2024
+
 | Dia  | Desafio                                                   | Recursos                                           | Status |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------|
 | 1       | Crie uma função que imprima a mensagem "Olá, Mundo!" no console e aceite um parâmetro para personalização da mensagem. | Funções em JavaScript, parâmetros de função.                | ✅    |
