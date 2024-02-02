@@ -5,7 +5,7 @@
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------  |
 | 1       | Crie uma função que imprima a mensagem "Olá, Mundo!" no console e aceite um parâmetro para personalização da mensagem. | Funções em JavaScript, parâmetros de função.                |Concluído✅    |
-| 2       | Declare uma variável, atribua um número a ela, e imprima no console tanto o número quanto o seu quadrado. | Declaração de variáveis, operações matemáticas em JavaScript. |       |
+| 2       | Declare uma variável, atribua um número a ela, e imprima no console tanto o número quanto o seu quadrado. | Declaração de variáveis, operações matemáticas em JavaScript. |   Concluído✅     |
 | 3       | Crie uma lista (array) com pelo menos 5 elementos, peça ao usuário para adicionar um elemento e imprima a lista atualizada no console. | Trabalho com arrays em JavaScript, interação com o usuário. |       |
 | 4       | Crie uma função que aceite dois parâmetros, verifique se são números, e retorne a soma se ambos forem válidos. Caso contrário, imprima uma mensagem de erro. | Funções, parâmetros, controle de fluxo em JavaScript.       | |
 | 5       | Escreva uma função que verifica se um número é par ou ímpar, e aceite um parâmetro adicional para personalizar a mensagem de saída. | Estruturas condicionais em JavaScript, parâmetros de função. | |
