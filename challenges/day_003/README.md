@@ -6,6 +6,19 @@ Crie uma lista (array) com pelo menos 5 elementos, peça ao usuário para adicio
 **Resultado:**
 
 ```javascript
-frutas.forEach((element, index) => {
-    console.log(element + ": " + (index + 1));
+const readline = require('readline');
+
+const frutas = ["Banana", "Caju", "Limão", "Uva", "Maça"];
+
+const rl = readline.createInterface ({
+    input: process.stdin,
+    output: process.stdout
+});
+
+rl.question("Digite a fruta: ", (novaFrutas) => {
+  frutas.push(novaFrutas)
+  frutas.forEach((element, index) => {
+    console.log((index + 1) + ": " + element );
   });
+  rl.close();
+})
