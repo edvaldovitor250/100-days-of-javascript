@@ -11,7 +11,7 @@
 | 5       | Escreva uma função que verifica se um número é par ou ímpar, e aceite um parâmetro adicional para personalizar a mensagem de saída. | Estruturas condicionais em JavaScript, parâmetros de função. | |
 | 6       | Crie uma função que inverte uma string e aceite um parâmetro adicional para indicar se a string deve ser invertida de trás para frente. | Manipulação de strings em JavaScript, parâmetros de função. | |
 | 7       | Implemente uma função que calcula o fatorial de um número e aceite um parâmetro adicional para definir se o resultado deve ser impresso no console. | Laços de repetição em JavaScript, parâmetros de função.    | |
-| 8       | Crie um objeto com pelo menos 3 propriedades, permita a atualização de uma delas e imprima o objeto atualizado no console. | Trabalho com objetos em JavaScript, atualização de propriedades. | Intermediário|
+| 8       | Crie um objeto com pelo menos 3 propriedades, permita a atualização de uma delas e imprima o objeto atualizado no console. | Trabalho com objetos em JavaScript, atualização de propriedades. | |
 | 9       | Implemente uma função que verifica se um número é primo e aceite um parâmetro adicional para especificar se o resultado deve ser impresso no console. | Lógica de verificação de números primos em JavaScript, parâmetros de função. | |
 | 10      | Crie uma função que recebe uma string, verifica se ela contém apenas letras e retorna a quantidade de vogais, permitindo personalização da mensagem de saída. | Iteração sobre strings, expressões regulares em JavaScript, parâmetros de função. | |
 | 11 | Implemente uma função que verifica se uma palavra é um palíndromo. | Manipulação de strings em JavaScript.             |  |
@@ -36,7 +36,7 @@
 | 30      | Implemente um modal simples que pode ser aberto e fechado. | Manipulação de DOM, eventos em JavaScript. |
 | 30      | Implemente um modal simples que pode ser aberto e fechado. | Manipulação de DOM, eventos em JavaScript. |
 | 31      | Construa um Jogo da Velha (Tic-Tac-Toe) | Aprimore suas habilidades em manipulação de eventos e estruturas de controle, criando um jogo da velha totalmente funcional em JavaScript. Permita que dois jogadores joguem alternadamente e implemente lógica para verificar o vencedor. |
-| 32      | Desenvolva uma Calculadora Interativa | Crie uma calculadora que permita realizar operações básicas, como adição, subtração, multiplicação e divisão. Utilize eventos de clique para facilitar a interação do usuário. |
+| 32      | Desenvolva uma Calculadora Interativa | Crie uma calculadora que permita realizar operações básicas, como adição, subtração, multiplicação e divisão. Utilize eventos de clique para facilitar a interação do usuário. | |
 | 33      | Implemente um Relógio Digital | Utilize manipulação de eventos e temporizadores para criar um relógio digital que exiba a hora atual. Adicione um design atraente usando CSS. |
 | 34      | Crie um Quiz de Perguntas e Respostas | Desenvolva um quiz interativo com perguntas e opções de resposta. Utilize eventos para capturar as respostas dos usuários e forneça feedback imediato. |
 | 35      | Construa um Conversor de Moedas | Utilize uma API de conversão de moedas para criar um conversor interativo. Permita que os usuários selecionem as moedas de origem e destino, exibindo a taxa de câmbio atualizada. |
