@@ -17,7 +17,6 @@ try {
     console.log(soma(2, 3));
     console.log(soma("dfas", 2))
     console.log(soma("dfas", 2))
-
 } catch (error) {
     console.error(error.message)
 }
