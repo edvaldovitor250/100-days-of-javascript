@@ -11,7 +11,7 @@
 | 5       | Escreva uma função que verifica se um número é par ou ímpar, e aceite um parâmetro adicional para personalizar a mensagem de saída. | Estruturas condicionais em JavaScript, parâmetros de função. |Concluído✅ |
 | 6       | Crie uma função que inverte uma string e aceite um parâmetro adicional para indicar se a string deve ser invertida de trás para frente. | Manipulação de strings em JavaScript, parâmetros de função. |Concluído✅ |
 | 7       | Implemente uma função que calcula o fatorial de um número e aceite um parâmetro adicional para definir se o resultado deve ser impresso no console. | Laços de repetição em JavaScript, parâmetros de função.    |Concluído✅   |
-| 8       | Crie um objeto com pelo menos 3 propriedades, permita a atualização de uma delas e imprima o objeto atualizado no console. | Trabalho com objetos em JavaScript, atualização de propriedades. | |
+| 8       | Crie um objeto com pelo menos 3 propriedades, permita a atualização de uma delas e imprima o objeto atualizado no console. | Trabalho com objetos em JavaScript, atualização de propriedades. |Concluído✅ |
 | 9       | Implemente uma função que verifica se um número é primo e aceite um parâmetro adicional para especificar se o resultado deve ser impresso no console. | Lógica de verificação de números primos em JavaScript, parâmetros de função. | |
 | 10      | Crie uma função que recebe uma string, verifica se ela contém apenas letras e retorna a quantidade de vogais, permitindo personalização da mensagem de saída. | Iteração sobre strings, expressões regulares em JavaScript, parâmetros de função. | |
 | 11 | Implemente uma função que verifica se uma palavra é um palíndromo. | Manipulação de strings em JavaScript.             |  |
