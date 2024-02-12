@@ -14,7 +14,7 @@
 | 8       | Crie um objeto com pelo menos 3 propriedades, permita a atualização de uma delas e imprima o objeto atualizado no console. | Trabalho com objetos em JavaScript, atualização de propriedades. |Concluído✅ |
 | 9       | 	Crie uma função em JavaScript que receba uma lista de nomes como entrada e retorne um novo array contendo apenas os nomes que começam com a letra "A". | Manipulação de strings em JavaScript, arrays, funções. |Concluído✅ |
 | 10      | Crie uma função que recebe uma string, verifica se ela contém apenas letras e retorna a quantidade de vogais, permitindo personalização da mensagem de saída. | Iteração sobre strings, expressões regulares em JavaScript, parâmetros de função. |Concluído✅ |
-| 11 | Implemente uma função que verifica se uma palavra é um palíndromo. | Manipulação de strings em JavaScript.             |  |
+| 11 | Implemente uma função que verifica se uma palavra é um palíndromo. | Manipulação de strings em JavaScript.             |Concluído✅   |
 | 12 | Escreva uma função que retorna os N primeiros números da sequência de Fibonacci. | Laços de repetição em JavaScript.                  |  |
 | 13 | Crie uma função para ordenar um array| Algoritmos de ordenação em JavaScript.                  |  |
 | 14 | Implemente um algoritmo de pesquisa binária. |  Algoritmos de busca em JavaScript.                 |  |
