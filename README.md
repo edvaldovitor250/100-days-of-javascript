@@ -18,7 +18,7 @@
 | 12 | Escreva uma função que retorna os N primeiros números da sequência de Fibonacci. | Laços de repetição em JavaScript.                  | Concluído✅  |
 | 13 | Crie uma função para ordenar um array| Algoritmos de ordenação em JavaScript.                  | Concluído✅ |
 | 14 | Implemente um algoritmo de pesquisa binária. |  Algoritmos de busca em JavaScript.                 |Concluído✅  |
-| 15 | Crie uma função para encontrar o maior elemento em um array. |  Iteração sobre arrays em JavaScript.               |  |
+| 15 | Crie uma função para encontrar o maior elemento e o menor elemento em um array. |  Iteração sobre arrays em JavaScript.               | Concluído✅ |
 | 16 | Escreva uma função que realiza a operação de potência. |  Operadores matemáticos em JavaScript                 |  |
 | 17 |Implemente uma fila usando arrays.  |  Estruturas de dados em JavaScript.                |  |
 | 18 |Crie uma função para calcular a média de um array de números.|  Operações matemáticas em JavaScript.               |  |
