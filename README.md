@@ -22,7 +22,7 @@
 | 16 | Escreva uma função que realiza a operação de potência. |  Operadores matemáticos em JavaScript                 |Concluído✅  |
 | 17 |Implemente uma fila usando arrays.  |  Estruturas de dados em JavaScript.                | Concluído✅ |
 | 18 |Crie uma função para calcular a média de um array de números.|  Operações matemáticas em JavaScript.               |Concluído✅  |
-| 19 | Implemente um algoritmo de ordenação rápida (quicksort). |  Algoritmos de ordenação em JavaScript.                 |  |
+| 19 | Implemente um algoritmo de ordenação rápida (quicksort). |  Algoritmos de ordenação em JavaScript.                 |Concluído✅  |
 | 20 | Escreva uma função para verificar se duas strings são anagramas. |  Manipulação de strings em JavaScript.                 |  |
 | 21      | Crie uma página web simples com HTML e CSS. | HTML, CSS. |
 | 22      | Adicione interatividade à página usando JavaScript. | Manipulação de DOM, eventos em JavaScript. |
