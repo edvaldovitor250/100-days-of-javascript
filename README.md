@@ -23,27 +23,26 @@
 | 17 |Implemente uma fila usando arrays.  |  Estruturas de dados em JavaScript.                | Concluído✅ |
 | 18 |Crie uma função para calcular a média de um array de números.|  Operações matemáticas em JavaScript.               |Concluído✅  |
 | 19 | Implemente um algoritmo de ordenação rápida (quicksort). |  Algoritmos de ordenação em JavaScript.                 |Concluído✅  |
-| 20 | Escreva uma função para verificar se duas strings são anagramas. |  Manipulação de strings em JavaScript.                 |  |
-| 21      | Crie uma página web simples com HTML e CSS. | HTML, CSS. |
-| 22      | Adicione interatividade à página usando JavaScript. | Manipulação de DOM, eventos em JavaScript. |
-| 23      | Manipule o DOM para criar elementos dinamicamente. | Manipulação de DOM em JavaScript. |
-| 24      | Implemente um contador simples que pode ser incrementado e decrementado. | Manipulação de eventos em JavaScript. |
-| 25      | Adicione validação a um formulário usando JavaScript. | Manipulação de eventos, validação de formulários em JavaScript. |
-| 26      | Crie um slider de imagens usando JavaScript. | Manipulação de DOM, eventos em JavaScript. |
-| 27      | Implemente um cronômetro simples. | Manipulação de eventos, temporizadores em JavaScript. |
-| 28      | Crie um sistema de lista de tarefas (To-Do List). | Manipulação de DOM, eventos em JavaScript. |
-| 29      | Adicione funcionalidade de filtro à lista de tarefas. | Manipulação de DOM, eventos em JavaScript. |
-| 30      | Implemente um modal simples que pode ser aberto e fechado. | Manipulação de DOM, eventos em JavaScript. |
-| 30      | Implemente um modal simples que pode ser aberto e fechado. | Manipulação de DOM, eventos em JavaScript. |
-| 31      | Construa um Jogo da Velha (Tic-Tac-Toe) | Aprimore suas habilidades em manipulação de eventos e estruturas de controle, criando um jogo da velha totalmente funcional em JavaScript. Permita que dois jogadores joguem alternadamente e implemente lógica para verificar o vencedor. |
-| 32      | Desenvolva uma Calculadora Interativa | Crie uma calculadora que permita realizar operações básicas, como adição, subtração, multiplicação e divisão. Utilize eventos de clique para facilitar a interação do usuário. | |
-| 33      | Implemente um Relógio Digital | Utilize manipulação de eventos e temporizadores para criar um relógio digital que exiba a hora atual. Adicione um design atraente usando CSS. |
-| 34      | Crie um Quiz de Perguntas e Respostas | Desenvolva um quiz interativo com perguntas e opções de resposta. Utilize eventos para capturar as respostas dos usuários e forneça feedback imediato. |
-| 35      | Construa um Conversor de Moedas | Utilize uma API de conversão de moedas para criar um conversor interativo. Permita que os usuários selecionem as moedas de origem e destino, exibindo a taxa de câmbio atualizada. |
-| 36      | Implemente um Jogo da Forca | Crie um jogo da forca onde os jogadores tentam adivinhar uma palavra oculta. Utilize eventos de teclado para capturar as letras escolhidas. |
-| 37      | Desenvolva um Sistema de Autenticação Simples | Aprofunde-se em manipulação de eventos e interações assíncronas, criando um sistema básico de autenticação. Utilize promessas ou async/await para lidar com operações assíncronas. |
-| 38      | Construa uma Aplicação de Previsão do Tempo | Utilize uma API de previsão do tempo para criar uma aplicação que exibe as condições climáticas atuais e futuras. Manipule os dados JSON retornados pela API. |
-| 39      | Crie um Jogo de Memória | Desenvolva um jogo de memória onde os jogadores combinam pares de cartas. Utilize manipulação de eventos para verificar se as escolhas dos jogadores são correspondentes. |
+| 20 | Escreva uma função para verificar se duas strings são anagramas. |  Manipulação de strings em JavaScript.                 | Concluído✅  |
+| 21  | Criar um objeto Pessoa com métodos para calcular a idade | Objetos, Funções |  |
+| 22  | Implementar uma função que resolve equações quadráticas | Matemática, Funções |  |
+| 23  | Criar um objeto Carro com métodos para acelerar e frear | Objetos, Funções |  |
+| 24  | Implementar uma função que realiza a transformada rápida de Fourier | Arrays, Funções |  |
+| 25  | Criar um objeto Árvore com métodos para adicionar e remover nós | Objetos, Funções |  |
+| 26  | Implementar uma função que realiza a decomposição LU de uma matriz | Arrays, Funções |  |
+| 27  | Criar um objeto Estudante com métodos para adicionar e remover disciplinas | Objetos, Funções |  |
+| 28  | Implementar uma função que realiza a interpolação polinomial de Lagrange | Arrays, Funções |  |
+| 29  | Criar um objeto Livro com métodos para emprestar e devolver | Objetos, Funções |  |
+| 30  | Criar uma função que exibe uma mensagem após um intervalo de tempo usando `setTimeout` | `setTimeout`, Funções | |
+| 31  | Criar um cronômetro usando `setInterval` | `setInterval`, Objetos | |
+| 32  | Criar uma função que executa uma função callback após um intervalo de tempo | `setTimeout`, Funções | |
+| 33  | Criar um objeto Animacao com métodos para iniciar e parar uma animação usando `setInterval` | `setInterval`, Objetos | |
+| 34  | Implementar um debouncer usando `setTimeout` | `setTimeout`, Funções |  |
+| 35  | Criar uma função que executa uma função callback a cada intervalo de tempo até ser parada | `setInterval`, Funções |  |
+| 36  | Implementar um throttler usando `setTimeout` | `setTimeout`, Funções |  |
+| 37  | Criar um objeto Temporizador com métodos para iniciar, pausar e reiniciar usando `setInterval` | `setInterval`, Objetos |  |
+| 38  | Criar uma função que executa uma promessa após um intervalo de tempo usando `setTimeout` | `setTimeout`, Promises |  |
+| 39  | Criar um objeto Intervalo com métodos para iniciar e parar um intervalo usando `setInterval` | `setInterval`, Objetos |  |
 | 40      | Implemente um Sistema de Notificações | Crie um sistema de notificações que permita exibir mensagens ou alertas ao usuário. Utilize manipulação de DOM para criar e modificar elementos dinamicamente. |
 | 41      | Faça uma requisição HTTP usando a função fetch. | Conhecimento de fetch API, AJAX. |
 | 42      | Manipule dados JSON obtidos de uma API. | Trabalho com JSON, manipulação de dados de APIs em JavaScript. |
