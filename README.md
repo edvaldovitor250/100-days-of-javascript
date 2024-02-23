@@ -25,7 +25,7 @@
 | 19 | Implemente um algoritmo de ordenação rápida (quicksort). |  Algoritmos de ordenação em JavaScript.                 |Concluído✅  |
 | 20 | Escreva uma função para verificar se duas strings são anagramas. |  Manipulação de strings em JavaScript.                 | Concluído✅  |
 | 21  | Criar um objeto Pessoa com métodos para calcular a idade | Objetos, Funções | Concluído✅ |
-| 22  | Implementar uma função que resolve equações quadráticas | Matemática, Funções |  |
+| 22  | Implementar uma função que resolve equações quadráticas | Matemática, Funções | Concluído✅ |
 | 23  | Criar um objeto Carro com métodos para acelerar e frear | Objetos, Funções |  |
 | 24  | Implementar uma função que realiza a transformada rápida de Fourier | Arrays, Funções |  |
 | 25  | Criar um objeto Árvore com métodos para adicionar e remover nós | Objetos, Funções |  |
