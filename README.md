@@ -28,7 +28,7 @@
 | 22  | Implementar uma função que resolve equações quadráticas | Matemática, Funções | Concluído✅ |
 | 23  | Criar um objeto Carro com métodos para acelerar e frear | Objetos, Funções | Concluído✅  |
 | 24  | Implementar uma função que realiza a transformada rápida de Fourier | Arrays, Funções |Concluído✅  |
-| 25  | Criar um objeto Árvore com métodos para adicionar e remover nós | Objetos, Funções |  |
+| 25  | Criar um objeto Árvore com métodos para adicionar e remover nós | Objetos, Funções | Concluído✅ |
 | 26  | Implementar uma função que realiza a decomposição LU de uma matriz | Arrays, Funções |  |
 | 27  | Criar um objeto Estudante com métodos para adicionar e remover disciplinas | Objetos, Funções |  |
 | 28  | Implementar uma função que realiza a interpolação polinomial de Lagrange | Arrays, Funções |  |
