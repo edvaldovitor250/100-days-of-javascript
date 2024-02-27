@@ -30,7 +30,7 @@
 | 24  | Implementar uma função que realiza a transformada rápida de Fourier | Arrays, Funções |Concluído✅  |
 | 25  | Criar um objeto Árvore com métodos para adicionar e remover nós | Objetos, Funções | Concluído✅ |
 | 26  | Implementar uma função que realiza a decomposição LU de uma matriz | Arrays, Funções | Concluído✅  |
-| 27  | Criar um objeto Estudante com métodos para adicionar e remover disciplinas | Objetos, Funções |  |
+| 27  | Criar um objeto Estudante com métodos para adicionar e remover disciplinas | Objetos, Funções |Concluído✅  |
 | 28  | Implementar uma função que realiza a interpolação polinomial de Lagrange | Arrays, Funções |  |
 | 29  | Criar um objeto Livro com métodos para emprestar e devolver | Objetos, Funções |  |
 | 30  | Criar uma função que exibe uma mensagem após um intervalo de tempo usando `setTimeout` | `setTimeout`, Funções | |
