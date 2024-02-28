@@ -2,7 +2,7 @@
 
 ## Desafio:
 
-		Criar um objeto Estudante com métodos para adicionar e remover disciplinas
+		Implementar uma função que realiza a interpolação polinomial de Lagrange
 
 **Resultado:**
 
