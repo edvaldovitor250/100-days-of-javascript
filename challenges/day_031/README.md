@@ -7,19 +7,16 @@
 **Resultado:**
 
 ```javascript
-let count = 0;
-let parar = null;
+let count = 1;
 
-function cronograma(numero) {
+function verificarCronograma(numero) {
     if (numero <= count) {
         console.log(`Bateu seu cronograma de ${numero}`);
-        clearInterval(parar);
     } else {
         console.log(`Está cronograma passando o tempo ${count}`);
+        setTimeout(verificarCronograma, 1000, numero);
+        count++;
     }
 }
 
-parar = setInterval(() => {
-    count++; 
-    cronograma(5); 
-}, 1000); 
+verificarCronograma(5);
