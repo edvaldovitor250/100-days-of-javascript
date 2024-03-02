@@ -1,8 +1,8 @@
-# Day 30
+# Day 31
 
 ## Desafio:
 
-Criar uma função que exibe uma mensagem após um intervalo de tempo usando setTimeout
+	Criar um cronômetro usando setInterval
 
 **Resultado:**
 
