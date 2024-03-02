@@ -33,7 +33,7 @@
 | 27  | Criar um objeto Estudante com métodos para adicionar e remover disciplinas | Objetos, Funções |Concluído✅  |
 | 28  | Implementar uma função que realiza a interpolação polinomial de Lagrange | Arrays, Funções |Concluído✅  |
 | 29  | Criar um objeto Livro com métodos para emprestar e devolver | Objetos, Funções | Concluído✅  |
-| 30  | Criar uma função que exibe uma mensagem após um intervalo de tempo usando `setTimeout` | `setTimeout`, Funções | |
+| 30  | Criar uma função que exibe uma mensagem após um intervalo de tempo usando `setTimeout` | `setTimeout`, Funções |Concluído✅ |
 | 31  | Criar um cronômetro usando `setInterval` | `setInterval`, Objetos | |
 | 32  | Criar uma função que executa uma função callback após um intervalo de tempo | `setTimeout`, Funções | |
 | 33  | Criar um objeto Animacao com métodos para iniciar e parar uma animação usando `setInterval` | `setInterval`, Objetos | |
