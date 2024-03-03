@@ -43,17 +43,17 @@
 | 37  | Criar um objeto Temporizador com métodos para iniciar, pausar e reiniciar usando `setInterval` | `setInterval`, Objetos |  |
 | 38  | Criar uma função que executa uma promessa após um intervalo de tempo usando `setTimeout` | `setTimeout`, Promises |  |
 | 39  | Criar um objeto Intervalo com métodos para iniciar e parar um intervalo usando `setInterval` | `setInterval`, Objetos |  |
-| 40      | Implemente um Sistema de Notificações | Crie um sistema de notificações que permita exibir mensagens ou alertas ao usuário. Utilize manipulação de DOM para criar e modificar elementos dinamicamente. |
-| 41      | Faça uma requisição HTTP usando a função fetch. | Conhecimento de fetch API, AJAX. |
-| 42      | Manipule dados JSON obtidos de uma API. | Trabalho com JSON, manipulação de dados de APIs em JavaScript. |
-| 43      | Crie um aplicativo de previsão do tempo utilizando uma API de previsão. | Conhecimento de APIs de previsão do tempo, manipulação de dados em JavaScript. |
-| 44      | Implemente um sistema de busca que retorna resultados em tempo real. | AJAX, manipulação de eventos em JavaScript. |
-| 45      | Utilize a API do Google Maps para mostrar um mapa em uma página web. | Conhecimento da API do Google Maps, integração com JavaScript. |
-| 46      | Faça upload de arquivos usando JavaScript. | Conhecimento de manipulação de arquivos, AJAX em JavaScript. |
-| 47      | Implemente um carrinho de compras simples com funcionalidade de adicionar e remover itens. | Manipulação de eventos, AJAX em JavaScript. |
-| 48      | Consuma uma API de música para exibir informações sobre artistas e músicas. | Conhecimento de APIs de música, manipulação de dados em JavaScript. |
-| 49      | Crie um aplicativo de notícias utilizando uma API de notícias. | Conhecimento de APIs de notícias, manipulação de dados em JavaScript. |
-| 50      | Desenvolva um mini jogo utilizando a API Canvas para desenhar. | Conhecimento da API Canvas, manipulação de eventos em JavaScript. |
+| 40   | Implemente um sistema de notificações assíncronas         | Crie um sistema de notificações que permita exibir mensagens ou alertas ao usuário de forma assíncrona. |         |
+| 41   | Faça uma requisição HTTP usando a função fetch com async/await. | Conhecimento de fetch API, AJAX, async/await. |         |
+| 42   | Manipule dados JSON obtidos de uma API usando async/await. | Trabalho com JSON, manipulação de dados de APIs em JavaScript com async/await. |         |
+| 43   | Crie um aplicativo de previsão do tempo utilizando uma API de previsão e async/await. | Conhecimento de APIs de previsão do tempo, manipulação de dados em JavaScript com async/await. |         |
+| 44   | Implemente um sistema de busca que retorna resultados em tempo real usando async/await. | AJAX, manipulação de eventos em JavaScript com async/await. |         |
+| 45   | Utilize a API do Google Maps para mostrar um mapa em uma página web de forma assíncrona. | Conhecimento da API do Google Maps, integração com JavaScript usando async/await. |         |
+| 46   | Faça upload de arquivos usando JavaScript e async/await. | Conhecimento de manipulação de arquivos, AJAX em JavaScript com async/await. |         |
+| 47   | Implemente um carrinho de compras simples com funcionalidade de adicionar e remover itens de forma assíncrona. | Manipulação de eventos, AJAX em JavaScript com async/await. |         |
+| 48   | Consuma uma API de música para exibir informações sobre artistas e músicas usando async/await. | Conhecimento de APIs de música, manipulação de dados em JavaScript com async/await. |         |
+| 49   | Crie um aplicativo de notícias utilizando uma API de notícias e async/await. | Conhecimento de APIs de notícias, manipulação de dados em JavaScript com async/await. |         |
+| 50   | Implemente uma função assíncrona que faz uma chamada de API | Desenvolva uma função JavaScript que utiliza `async` e `await` para fazer uma chamada de API e manipular os dados recebidos. |         |
 | 51      | Implemente um sistema de autenticação com Firebase. | Integração com Firebase, manipulação de autenticação em JavaScript. |
 | 52      | Desenvolva uma aplicação de chat em tempo real. | Utilize WebSockets ou Firebase para criar um sistema de chat dinâmico. |
 | 53      | Crie um gerador de senhas aleatórias com opções personalizáveis. | Utilize funções de geração aleatória e manipulação de strings em JavaScript. |
