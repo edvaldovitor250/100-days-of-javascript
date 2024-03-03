@@ -35,7 +35,7 @@
 | 29  | Criar um objeto Livro com métodos para emprestar e devolver | Objetos, Funções | Concluído✅  |
 | 30  | Criar uma função que exibe uma mensagem após um intervalo de tempo usando `setTimeout` | `setTimeout`, Funções |Concluído✅ |
 | 31  | Criar um cronômetro usando `setInterval` | `setInterval`, Objetos |Concluído✅ |
-| 32  | Criar uma função que executa uma função callback após um intervalo de tempo | `setTimeout`, Funções | |
+| 32  | Criar uma função que executa uma função callback após um intervalo de tempo | `setTimeout`, Funções |Concluído✅ |
 | 33  | Criar um objeto Animacao com métodos para iniciar e parar uma animação usando `setInterval` | `setInterval`, Objetos | |
 | 34  | Implementar um debouncer usando `setTimeout` | `setTimeout`, Funções |  |
 | 35  | Criar uma função que executa uma função callback a cada intervalo de tempo até ser parada | `setInterval`, Funções |  |
