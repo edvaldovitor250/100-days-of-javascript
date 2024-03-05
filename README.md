@@ -1,4 +1,4 @@
-# 100 days of javascript
+ # 100 days of javascript
 
 ## Incio dos desafios 01/02/2024
 
@@ -37,7 +37,7 @@
 | 31  | Criar um cronômetro usando `setInterval` | `setInterval`, Objetos |Concluído✅ |
 | 32  | Criar uma função que executa uma função callback após um intervalo de tempo | `setTimeout`, Funções |Concluído✅ |
 | 33  | Criar um objeto Animacao com métodos para iniciar e parar uma animação usando `setInterval` | `setInterval`, Objetos |Concluído✅ |
-| 34  | Implementar um debouncer usando `setTimeout` | `setTimeout`, Funções |  |
+| 34  | Implementar um debouncer usando `setTimeout` | `setTimeout`, Funções |Concluído✅  |
 | 35  | Criar uma função que executa uma função callback a cada intervalo de tempo até ser parada | `setInterval`, Funções |  |
 | 36  | Implementar um throttler usando `setTimeout` | `setTimeout`, Funções |  |
 | 37  | Criar um objeto Temporizador com métodos para iniciar, pausar e reiniciar usando `setInterval` | `setInterval`, Objetos |  |
