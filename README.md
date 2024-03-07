@@ -39,7 +39,7 @@
 | 33  | Criar um objeto Animacao com métodos para iniciar e parar uma animação usando `setInterval` | `setInterval`, Objetos |Concluído✅ |
 | 34  | Implementar um debouncer usando `setTimeout` | `setTimeout`, Funções |Concluído✅  |
 | 35  | Criar uma função que executa uma função callback a cada intervalo de tempo até ser parada | `setInterval`, Funções | Concluído✅  |
-| 36  | Implementar um throttler usando `setTimeout` | `setTimeout`, Funções |  |
+| 36  | Implementar um throttler usando `setTimeout` | `setTimeout`, Funções | Concluído✅ |
 | 37  | Criar um objeto Temporizador com métodos para iniciar, pausar e reiniciar usando `setInterval` | `setInterval`, Objetos |  |
 | 38  | Criar uma função que executa uma promessa após um intervalo de tempo usando `setTimeout` | `setTimeout`, Promises |  |
 | 39  | Criar um objeto Intervalo com métodos para iniciar e parar um intervalo usando `setInterval` | `setInterval`, Objetos |  |
