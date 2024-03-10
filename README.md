@@ -41,7 +41,7 @@
 | 35  | Criar uma função que executa uma função callback a cada intervalo de tempo até ser parada | `setInterval`, Funções | Concluído✅  |
 | 36  | Implementar um throttler usando `setTimeout` | `setTimeout`, Funções | Concluído✅ |
 | 37  | Criar um objeto Temporizador com métodos para iniciar, pausar e reiniciar usando `setInterval` | `setInterval`, Objetos | Concluído✅ |
-| 38  | Criar uma função que executa uma promessa após um intervalo de tempo usando `setTimeout` | `setTimeout`, Promises |  |
+| 38  | Criar uma função que executa uma promessa após um intervalo de tempo usando `setTimeout` | `setTimeout`, Promises | Concluído✅  |
 | 39  | Criar um objeto Intervalo com métodos para iniciar e parar um intervalo usando `setInterval` | `setInterval`, Objetos |  |
 | 40   | Implemente um sistema de notificações assíncronas         | Crie um sistema de notificações que permita exibir mensagens ou alertas ao usuário de forma assíncrona. |         |
 | 41   | Faça uma requisição HTTP usando a função fetch com async/await. | Conhecimento de fetch API, AJAX, async/await. |         |
