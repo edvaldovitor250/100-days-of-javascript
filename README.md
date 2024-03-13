@@ -45,7 +45,7 @@
 | 39  | Criar um objeto Intervalo com métodos para iniciar e parar um intervalo usando `setInterval` | `setInterval`, Objetos |Concluído✅  |
 | 40   | Implemente um sistema de notificações assíncronas         | Crie um sistema de notificações que permita exibir mensagens ou alertas ao usuário de forma assíncrona. |  Concluído✅       |
 | 41   | Faça uma requisição HTTP usando a função fetch com async/await. | Conhecimento de fetch API, AJAX, async/await. | Concluído✅        |
-| 42   | Manipule dados JSON obtidos de uma API usando async/await. | Trabalho com JSON, manipulação de dados de APIs em JavaScript com async/await. |         |
+| 42   | Manipule dados JSON obtidos de uma API usando async/await. | Trabalho com JSON, manipulação de dados de APIs em JavaScript com async/await. |  Concluído✅       |
 | 43   | Crie um aplicativo de previsão do tempo utilizando uma API de previsão e async/await. | Conhecimento de APIs de previsão do tempo, manipulação de dados em JavaScript com async/await. |         |
 | 44   | Implemente um sistema de busca que retorna resultados em tempo real usando async/await. | AJAX, manipulação de eventos em JavaScript com async/await. |         |
 | 45   | Utilize a API do Google Maps para mostrar um mapa em uma página web de forma assíncrona. | Conhecimento da API do Google Maps, integração com JavaScript usando async/await. |         |
