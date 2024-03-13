@@ -1,6 +1,5 @@
 # Day 42
 
-
 ## Desafio:
 
 	Manipule dados JSON obtidos de uma API usando async/await.

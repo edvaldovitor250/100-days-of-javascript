@@ -12,6 +12,7 @@ function getCep(cep) {
     })
     .catch(error => console.log('Ocorreu um erro:', error))
     .finally(() => "Fim!");
-}
+} 
+
 
 getCep(23812310);
