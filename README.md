@@ -49,7 +49,7 @@
 | 43   | Crie um aplicativo de previsão do tempo utilizando uma API de previsão e async/await. | Conhecimento de APIs de previsão do tempo, manipulação de dados em JavaScript com async/await. |    Concluído✅     |
 | 44   | Implemente um sistema de busca que retorna resultados em tempo real usando async/await. | AJAX, manipulação de eventos em JavaScript com async/await. | Concluído✅        |
 | 45   | Utilize a API do Google Maps para mostrar um mapa em uma página web de forma assíncrona. | Conhecimento da API do Google Maps, integração com JavaScript usando async/await. | Concluído✅        |
-| 46   | Faça upload de arquivos usando JavaScript e async/await. | Conhecimento de manipulação de arquivos, AJAX em JavaScript com async/await. |         |
+| 46   | Faça upload de arquivos usando JavaScript e async/await. | Conhecimento de manipulação de arquivos, AJAX em JavaScript com async/await. |Concluído✅         |
 | 47   | Implemente um carrinho de compras simples com funcionalidade de adicionar e remover itens de forma assíncrona. | Manipulação de eventos, AJAX em JavaScript com async/await. |         |
 | 48   | Consuma uma API de música para exibir informações sobre artistas e músicas usando async/await. | Conhecimento de APIs de música, manipulação de dados em JavaScript com async/await. |         |
 | 49   | Crie um aplicativo de notícias utilizando uma API de notícias e async/await. | Conhecimento de APIs de notícias, manipulação de dados em JavaScript com async/await. |         |
