@@ -53,7 +53,7 @@
 | 47   | Implemente um carrinho de compras simples com funcionalidade de adicionar e remover itens de forma assíncrona. | Manipulação de eventos, AJAX em JavaScript com async/await. |  Concluído✅       |
 | 48   | Consuma uma API de música para exibir informações sobre artistas e músicas usando async/await. | Conhecimento de APIs de música, manipulação de dados em JavaScript com async/await. |  Concluído✅       |
 | 49   | Crie um aplicativo de notícias utilizando uma API de notícias e async/await. | Conhecimento de APIs de notícias, manipulação de dados em JavaScript com async/await. | Concluído✅        |
-| 50   | Implemente uma função assíncrona que faz uma chamada de API | Desenvolva uma função JavaScript que utiliza `async` e `await` para fazer uma chamada de API e manipular os dados recebidos. |         |
+| 50   | Implemente uma função assíncrona que faz uma chamada de API | Desenvolva uma função JavaScript que utiliza `async` e `await` para fazer uma chamada de API e manipular os dados recebidos. | Concluído✅        |
 | 51      | Implemente um sistema de autenticação com Firebase. | Integração com Firebase, manipulação de autenticação em JavaScript. |
 | 52      | Desenvolva uma aplicação de chat em tempo real. | Utilize WebSockets ou Firebase para criar um sistema de chat dinâmico. |
 | 53      | Crie um gerador de senhas aleatórias com opções personalizáveis. | Utilize funções de geração aleatória e manipulação de strings em JavaScript. |
