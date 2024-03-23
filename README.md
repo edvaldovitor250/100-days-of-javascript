@@ -54,28 +54,28 @@
 | 48   | Consuma uma API de música para exibir informações sobre artistas e músicas usando async/await. | Conhecimento de APIs de música, manipulação de dados em JavaScript com async/await. |  Concluído✅       |
 | 49   | Crie um aplicativo de notícias utilizando uma API de notícias e async/await. | Conhecimento de APIs de notícias, manipulação de dados em JavaScript com async/await. | Concluído✅        |
 | 50   | Implemente uma função assíncrona que faz uma chamada de API | Desenvolva uma função JavaScript que utiliza `async` e `await` para fazer uma chamada de API e manipular os dados recebidos. | Concluído✅        |
-| 51      | Implemente um sistema de autenticação com Firebase. | Integração com Firebase, manipulação de autenticação em JavaScript. |
-| 52      | Desenvolva uma aplicação de chat em tempo real. | Utilize WebSockets ou Firebase para criar um sistema de chat dinâmico. |
-| 53      | Crie um gerador de senhas aleatórias com opções personalizáveis. | Utilize funções de geração aleatória e manipulação de strings em JavaScript. |
-| 54      | Implemente um cronômetro regressivo com opção de definir o tempo. | Utilize temporizadores e manipulação de eventos em JavaScript. |
-| 55      | Construa um sistema de avaliação (rating) com estrelas interativas. | Manipulação de eventos e interação com elementos de interface. |
-| 56      | Desenvolva um aplicativo de lista de compras com funcionalidade de adicionar, remover e marcar como concluído. | Manipulação de eventos, AJAX em JavaScript. |
-| 57      | Crie uma galeria de imagens com funcionalidade de navegação e visualização em tela cheia. | Utilize HTML, CSS e JavaScript para criar uma galeria interativa. |
-| 58      | Implemente um sistema de favoritos para salvar itens de interesse do usuário. | Utilize armazenamento local ou Firebase para persistir dados. |
-| 59      | Desenvolva uma aplicação de agenda, permitindo adicionar, editar e excluir eventos. | Manipulação de eventos, AJAX em JavaScript. |
-| 60      | Crie uma aplicação de gerenciamento de tarefas com funcionalidades avançadas, como categorização e priorização. | Utilize conceitos avançados de manipulação de DOM e eventos em JavaScript. |
-| 61      | Aprenda a usar o jQuery para manipular o DOM. | Conhecimento básico do jQuery. |
-| 62      | Explore o Bootstrap para criar um layout responsivo. | Conhecimento do Bootstrap com JavaScript. |
-| 63      | Utilize o Angular ou React para construir uma aplicação simples. | Conhecimento básico de Angular ou React com JavaScript. |
-| 64      | Integre o Firebase a uma aplicação para armazenamento de dados. | Conhecimento básico do Firebase com JavaScript. |
-| 65      | Experimente Vue.js para criar componentes reativos. | Conhecimento básico de Vue.js com JavaScript. |
-| 66      | Utilize Node.js para criar um servidor web simples. | Conhecimento básico de Node.js com JavaScript. |
-| 67      | Implemente autenticação usando Firebase Authentication. | Conhecimento do Firebase Authentication com JavaScript. |
-| 68      | Construa um aplicativo de chat em tempo real utilizando Socket.IO. | Conhecimento de Socket.IO, construção de chat em tempo real com JavaScript. |
-| 69      | Aprenda a usar uma biblioteca de gráficos, como Chart.js ou D3.js. | Conhecimento básico de Chart.js ou D3.js com JavaScript. |
-| 70      | Explore o mundo dos testes unitários com Jasmine ou Jest. | Conhecimento básico de Jasmine ou Jest para testes unitários em JavaScript. |
-| 71      | Crie uma aplicação de lista de tarefas utilizando Vue.js. | Conhecimento básico de Vue.js com JavaScript. |
-| 72      | Desenvolva uma aplicação de blog utilizando Nuxt.js. | Conhecimento básico de Nuxt.js com JavaScript. |
+| 51      | Implemente um sistema de autenticação com Firebase. | Integração com Firebase, manipulação de autenticação em JavaScript. |        |
+| 52      | Desenvolva uma aplicação de chat em tempo real. | Utilize WebSockets ou Firebase para criar um sistema de chat dinâmico. |  |
+| 53      | Crie um gerador de senhas aleatórias com opções personalizáveis. | Utilize funções de geração aleatória e manipulação de strings em JavaScript. |  |
+| 54      | Implemente um cronômetro regressivo com opção de definir o tempo. | Utilize temporizadores e manipulação de eventos em JavaScript. |  |
+| 55      | Construa um sistema de avaliação (rating) com estrelas interativas. | Manipulação de eventos e interação com elementos de interface. | |
+| 56      | Desenvolva um aplicativo de lista de compras com funcionalidade de adicionar, remover e marcar como concluído. | Manipulação de eventos, AJAX em JavaScript. |  |
+| 57      | Crie uma galeria de imagens com funcionalidade de navegação e visualização em tela cheia. | Utilize HTML, CSS e JavaScript para criar uma galeria interativa. |  |
+| 58      | Implemente um sistema de favoritos para salvar itens de interesse do usuário. | Utilize armazenamento local ou Firebase para persistir dados. |  |
+| 59      | Desenvolva uma aplicação de agenda, permitindo adicionar, editar e excluir eventos. | Manipulação de eventos, AJAX em JavaScript. |  |
+| 60      | Crie uma aplicação de gerenciamento de tarefas com funcionalidades avançadas, como categorização e priorização. | Utilize conceitos avançados de manipulação de DOM e eventos em JavaScript. |  |
+| 61      | Aprenda a usar o jQuery para manipular o DOM. | Conhecimento básico do jQuery. |  |
+| 62      | Explore o Bootstrap para criar um layout responsivo. | Conhecimento do Bootstrap com JavaScript. |  |
+| 63      | Utilize o Angular ou React para construir uma aplicação simples. | Conhecimento básico de Angular ou React com JavaScript. |  |
+| 64      | Integre o Firebase a uma aplicação para armazenamento de dados. | Conhecimento básico do Firebase com JavaScript. |  |
+| 65      | Experimente Vue.js para criar componentes reativos. | Conhecimento básico de Vue.js com JavaScript. |  |
+| 66      | Utilize Node.js para criar um servidor web simples. | Conhecimento básico de Node.js com JavaScript. |  |
+| 67      | Implemente autenticação usando Firebase Authentication. | Conhecimento do Firebase Authentication com JavaScript. |  |
+| 68      | Construa um aplicativo de chat em tempo real utilizando Socket.IO. | Conhecimento de Socket.IO, construção de chat em tempo real com JavaScript. |  |
+| 69      | Aprenda a usar uma biblioteca de gráficos, como Chart.js ou D3.js. | Conhecimento básico de Chart.js ou D3.js com JavaScript. |  |
+| 70      | Explore o mundo dos testes unitários com Jasmine ou Jest. | Conhecimento básico de Jasmine ou Jest para testes unitários em JavaScript. |  |
+| 71      | Crie uma aplicação de lista de tarefas utilizando Vue.js. | Conhecimento básico de Vue.js com JavaScript. |  |
+| 72      | Desenvolva uma aplicação de blog utilizando Nuxt.js. | Conhecimento básico de Nuxt.js com JavaScript. |  |
 | 73      | Implemente um sistema de busca com sugestões utilizando Algolia. | Integração com Algolia, AJAX em JavaScript. |
 | 74      | Construa um aplicativo de agenda pessoal com Electron. | Conhecimento básico de Electron com JavaScript. |
 | 75      | Utilize a biblioteca Axios para realizar requisições HTTP em uma aplicação Vue.js. | Conhecimento básico de Axios com Vue.js e JavaScript. |
@@ -83,7 +83,8 @@
 | 77      | Desenvolva um jogo simples usando Phaser.js. | Conhecimento básico de Phaser.js com JavaScript. |
 | 78      | Implemente autenticação usando Auth0 em uma aplicação Angular. | Conhecimento de Auth0, Angular e JavaScript. |
 | 79      | Crie uma aplicação de e-commerce com Vanilla JavaScript e integre com o PayPal para pagamentos. | Conhecimento de integração com PayPal e manipulação de DOM em JavaScript. |
-| 80      | Aprenda a usar o framework Selenium para automação de testes em páginas web. | Conhecimento básico de Selenium para automação de testes em JavaScript. || 81      | Desenvolva um aplicativo de lista de reprodução de músicas. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
+| 80      | Aprenda a usar o framework Selenium para automação de testes em páginas web. | Conhecimento básico de Selenium para automação de testes em JavaScript. |
+| 81      | Desenvolva um aplicativo de lista de reprodução de músicas. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
 | 82      | Crie um blog pessoal com funcionalidade de adicionar novas postagens. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
 | 83      | Construa um aplicativo de gerenciamento de tarefas mais avançado. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
 | 84      | Implemente um jogo de quebra-cabeça utilizando Canvas. | Conhecimento avançado da API Canvas, construção de jogos com JavaScript. |
