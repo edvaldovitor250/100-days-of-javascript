@@ -1,16 +1,16 @@
-async function getDate(id){
-  return new Promise((resolve , reject) =>{
-    setTimeout(() =>{
-      console.log("Buscando dados associados ao ID",id)
+async function getDate(id) {
+  return new Promise((resolve, reject) => {
+    setTimeout(() => {
+      console.log("Buscando dados associados ao ID", id)
 
-      const dados ={
+      const dados = {
         id: id,
         nome: "Vitor",
         idade: 21
 
       }
       resolve(dados)
-    },2000)
+    }, 2000)
   })
 
 }
@@ -18,9 +18,9 @@ async function getDate(id){
 const id = 1
 console.log("Iniciando consulta ao banco de dados...")
 getDate(id)
-.then(dados =>{
-    console.log("Dados recuperados:",dados)
+  .then(dados => {
+    console.log("Dados recuperados:", dados)
   })
-.catch(error =>{
-    console.error("Ocorreu um erro durante a consulta",error)
+  .catch(error => {
+    console.error("Ocorreu um erro durante a consulta", error)
   })
