@@ -75,32 +75,32 @@
 | 69   | Escreva uma função que recebe um número como parâmetro e retorna uma Promise que verifica se o número é um número primo de Mersenne, resolvendo com true se for e false se não for, após 1 segundo.                                     | Funções, async/await, Promises                     |    Concluído✅       |
 | 70   | Implemente uma função que simule um processo assíncrono de exclusão de usuário. Esta função deve receber um ID de usuário como parâmetro e retornar uma Promise que simula a exclusão desse usuário, resolvendo após 2 segundos.                                     | Funções, async/await, Promises                     |         |
 | 71   | Crie uma função que recebe um array de strings como parâmetro e retorna uma Promise que resolve com um array contendo o comprimento de cada string, após 1 segundo.                                         | Funções, async/await, Promises                     |         |
-| 72   | Escreva uma função que recebe um número como parâmetro e retorna uma Promise que verifica se o número é um número de Armstrong, resolvendo com true se for e false |
-| 73      | Implemente um sistema de busca com sugestões utilizando Algolia. | Integração com Algolia, AJAX em JavaScript. |
-| 74      | Construa um aplicativo de agenda pessoal com Electron. | Conhecimento básico de Electron com JavaScript. |
-| 75      | Utilize a biblioteca Axios para realizar requisições HTTP em uma aplicação Vue.js. | Conhecimento básico de Axios com Vue.js e JavaScript. |
-| 76      | Explore o framework Express.js para criar uma API REST simples. | Conhecimento básico de Express.js com Node.js e JavaScript. |
-| 77      | Desenvolva um jogo simples usando Phaser.js. | Conhecimento básico de Phaser.js com JavaScript. |
-| 78      | Implemente autenticação usando Auth0 em uma aplicação Angular. | Conhecimento de Auth0, Angular e JavaScript. |
-| 79      | Crie uma aplicação de e-commerce com Vanilla JavaScript e integre com o PayPal para pagamentos. | Conhecimento de integração com PayPal e manipulação de DOM em JavaScript. |
-| 80      | Aprenda a usar o framework Selenium para automação de testes em páginas web. | Conhecimento básico de Selenium para automação de testes em JavaScript. |
-| 81      | Desenvolva um aplicativo de lista de reprodução de músicas. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 82      | Crie um blog pessoal com funcionalidade de adicionar novas postagens. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 83      | Construa um aplicativo de gerenciamento de tarefas mais avançado. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 84      | Implemente um jogo de quebra-cabeça utilizando Canvas. | Conhecimento avançado da API Canvas, construção de jogos com JavaScript. |
-| 85      | Desenvolva um sistema de autenticação com OAuth. | Conhecimento de OAuth, autenticação em JavaScript. |
-| 86      | Crie um aplicativo de previsão do tempo com funcionalidades avançadas. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 87      | Construa um clone de uma rede social (por exemplo, Twitter ou Instagram). | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 88      | Implemente um sistema de blog com comentários. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 89      | Desenvolva um aplicativo de gerenciamento financeiro pessoal. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 90      | Construa um sistema de reserva de hotéis online. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 91      | Crie uma aplicação de comércio eletrônico simples. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 92      | Implemente um jogo de adivinhação utilizando inteligência artificial básica. | Lógica de jogo, manipulação de dados com JavaScript. |
-| 93      | Desenvolva um aplicativo de receitas culinárias. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 94      | Construa um sistema de gerenciamento de eventos. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 95      | Implemente um aplicativo de chatbot. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. |
-| 96      | Crie um aplicativo de rastreamento de hábitos. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 97      | Desenvolva um jogo estilo Flappy Bird. | Construção de jogos, manipulação de eventos com JavaScript. |
-| 98      | Construa um aplicativo de monitoramento de saúde. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 99      | Implemente um sistema de reserva de passagens aéreas. | Manipulação de dados, construção de interfaces interativas com JavaScript. |
-| 100     | Celebre! Reflita sobre o que aprendeu e continue explorando novas tecnologias. | - |
+| 72 | Escreva uma classe que implementa um sistema de validação de números de Armstrong, aceitando um array de números como entrada e retornando um objeto contendo os números de Armstrong encontrados. ||
+| 73 | Construa um sistema de busca com sugestões utilizando um array de objetos como fonte de dados. | Integração com serviço de busca, manipulação de arrays e objetos em JavaScript. | |
+| 74 | Implemente um aplicativo de agenda pessoal utilizando classes em JavaScript para manipulação de arrays e objetos. | Conhecimento básico de classes em JavaScript. |
+| 75 | Utilize a biblioteca Axios para realizar requisições HTTP em uma aplicação Angular, com manipulação de arrays e objetos em JavaScript. | Conhecimento básico de Axios com Angular e JavaScript. |
+| 76 | Explore o framework Express.js para criar um servidor de API REST simples com manipulação de arrays e objetos em JavaScript. | Conhecimento básico de Express.js com Node.js e JavaScript. ||
+| 77 | Desenvolva um jogo simples usando Phaser.js com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento básico de Phaser.js com JavaScript. | |
+| 78 | Implemente autenticação usando Auth0 em uma aplicação Vue.js com manipulação de arrays e objetos em JavaScript. | Conhecimento de Auth0, Vue.js e JavaScript. ||
+| 79 | Crie uma aplicação de e-commerce com Vanilla JavaScript e integre com o PayPal para pagamentos, utilizando manipulação avançada de arrays e objetos. | Conhecimento de integração com PayPal e manipulação de arrays e objetos em JavaScript. ||
+| 80 | Aprenda a usar o framework Selenium para automação de testes em páginas web com manipulação de arrays e objetos em JavaScript. | Conhecimento básico de Selenium para automação de testes em JavaScript. ||
+| 81 | Desenvolva um aplicativo de lista de reprodução de músicas com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 82 | Crie um blog pessoal com funcionalidade de adicionar novas postagens e manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 83 | Construa um aplicativo de gerenciamento de tarefas mais avançado com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 84 | Implemente um jogo de quebra-cabeça utilizando Canvas com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento avançado da API Canvas, construção de jogos com JavaScript. ||
+| 85 | Desenvolva um sistema de autenticação com OAuth e manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de OAuth, autenticação em JavaScript. ||
+| 86 | Crie um aplicativo de previsão do tempo com funcionalidades avançadas e manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 87 | Construa um clone de uma rede social (por exemplo, Twitter ou Instagram) com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 88 | Implemente um sistema de blog com comentários e manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 89 | Desenvolva um aplicativo de gerenciamento financeiro pessoal com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 90 | Construa um sistema de reserva de hotéis online com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 91 | Crie uma aplicação de comércio eletrônico simples com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 92 | Implemente um jogo de adivinhação utilizando inteligência artificial básica com manipulação avançada de arrays e objetos em JavaScript. | Lógica de jogo, manipulação de dados com JavaScript. ||
+| 93 | Desenvolva um aplicativo de receitas culinárias com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 94 | Construa um sistema de gerenciamento de eventos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 95 | Implemente um aplicativo de chatbot com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. ||
+| 96 | Crie um aplicativo de rastreamento de hábitos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 97 | Desenvolva um jogo estilo Flappy Bird com manipulação avançada de arrays e objetos em JavaScript. | Construção de jogos, manipulação de eventos com JavaScript. | | 
+| 98 | Construa um aplicativo de monitoramento de saúde com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. || 
+| 99 | Implemente um sistema de reserva de passagens aéreas com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. || 
+| 100 | Celebre! Reflita sobre o que aprendeu e continue explorando novas tecnologias com manipulação avançada de arrays e objetos em JavaScript. | - || 
