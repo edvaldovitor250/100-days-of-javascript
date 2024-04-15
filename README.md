@@ -77,7 +77,7 @@
 | 71   | Crie uma função que recebe um array de strings como parâmetro e retorna uma Promise que resolve com um array contendo o comprimento de cada string, após 1 segundo.                                         | Funções, async/await, Promises                     |    Concluído✅      |
 | 72   |	Escreva uma classe que implementa um sistema de validação de números de Armstrong, aceitando um array de números como entrada e retornando um objeto contendo os números de Armstrong encontrados.                                        | Funções, async/await, Promises                     |    Concluído✅      |
 | 73 | Construa um sistema de busca com sugestões utilizando um array de objetos como fonte de dados. | Integração com serviço de busca, manipulação de arrays e objetos em JavaScript. |Concluído✅ |
-| 74 | Implemente um aplicativo de agenda pessoal utilizando classes em JavaScript para manipulação de arrays e objetos. | Conhecimento básico de classes em JavaScript. |
+| 74 | Implemente um aplicativo de agenda pessoal utilizando classes em JavaScript para manipulação de arrays e objetos. | Conhecimento básico de classes em JavaScript. |Concluído✅  |
 | 75 | Utilize a biblioteca Axios para realizar requisições HTTP em uma aplicação Angular, com manipulação de arrays e objetos em JavaScript. | Conhecimento básico de Axios com Angular e JavaScript. |
 | 76 | Explore o framework Express.js para criar um servidor de API REST simples com manipulação de arrays e objetos em JavaScript. | Conhecimento básico de Express.js com Node.js e JavaScript. ||
 | 77 | Desenvolva um jogo simples usando Phaser.js com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento básico de Phaser.js com JavaScript. | |
