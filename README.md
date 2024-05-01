@@ -93,7 +93,7 @@
 | 87 | Crie um aplicativo de cronômetro que permita ao usuário iniciar, pausar e zerar o cronômetro utilizando apenas JavaScript puro. Utilize `async` e `await` com Promises, se necessário, para lidar com operações assíncronas, como a atualização do tempo exibido. | Manipulação de arrays e objetos em JavaScript. |Concluído✅  |
 | 88 | Implemente um sistema de blog com comentários e manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 89 | Desenvolva um aplicativo de gerenciamento financeiro pessoal com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅ |
-| 90 | Construa um sistema de reserva de hotéis online com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 90 | Construa um sistema de reserva de hotéis online com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 91 | Crie uma aplicação de comércio eletrônico simples com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
 | 92 | Implemente um jogo de adivinhação utilizando inteligência artificial básica com manipulação avançada de arrays e objetos em JavaScript. | Lógica de jogo, manipulação de dados com JavaScript. ||
 | 93 | Desenvolva um aplicativo de receitas culinárias com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
