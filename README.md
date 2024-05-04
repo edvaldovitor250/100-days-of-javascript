@@ -96,7 +96,7 @@
 | 90 | Construa um sistema de reserva de hotéis online com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 91 | Crie uma aplicação de comércio eletrônico simples com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 92 | Implemente um jogo de adivinhação utilizando inteligência artificial básica com manipulação avançada de arrays e objetos em JavaScript. | Lógica de jogo, manipulação de dados com JavaScript. |Concluído✅|
-| 93 | Desenvolva um aplicativo de receitas culinárias com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
+| 93 | Desenvolva um aplicativo de receitas culinárias com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 94 | Construa um sistema de gerenciamento de eventos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
 | 95 | Implemente um aplicativo de chatbot com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. ||
 | 96 | Crie um aplicativo de rastreamento de hábitos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
