@@ -98,7 +98,7 @@
 | 92 | Implemente um jogo de adivinhação utilizando inteligência artificial básica com manipulação avançada de arrays e objetos em JavaScript. | Lógica de jogo, manipulação de dados com JavaScript. |Concluído✅|
 | 93 | Desenvolva um aplicativo de receitas culinárias com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
 | 94 | Construa um sistema de gerenciamento de eventos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅|
-| 95 | Implemente um aplicativo de chatbot com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. ||
+| 95 | Implemente um aplicativo de chatbot com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. |Concluído✅ |
 | 96 | Crie um aplicativo de rastreamento de hábitos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. ||
 | 97 | Desenvolva um jogo estilo Flappy Bird com manipulação avançada de arrays e objetos em JavaScript. | Construção de jogos, manipulação de eventos com JavaScript. | | 
 | 98 | Construa um aplicativo de monitoramento de saúde com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. || 
