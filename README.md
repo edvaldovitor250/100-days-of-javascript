@@ -101,6 +101,6 @@
 | 95 | Implemente um aplicativo de chatbot com manipulação avançada de arrays e objetos em JavaScript. | Conhecimento de chatbots, construção de interfaces interativas com JavaScript. |Concluído✅ |
 | 96 | Crie um aplicativo de rastreamento de hábitos com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅ |
 | 97 | Desenvolva um aplicativo de acompanhamento de exercícios de academia usando classes e arrays em JavaScript. | Crie uma aplicação para registrar e acompanhar os exercícios realizados na academia, utilizando classes e arrays para organizar os dados em JavaScript. |Concluído✅|
-98 | Construa um aplicativo de monitoramento de saúde com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. || 
+98 | Construa um aplicativo de monitoramento de saúde com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. |Concluído✅| 
 | 99 | Implemente um sistema de reserva de passagens aéreas com manipulação avançada de arrays e objetos em JavaScript. | Manipulação de dados, construção de interfaces interativas com JavaScript. || 
 | 100 | Celebre! Reflita sobre o que aprendeu e continue explorando novas tecnologias com manipulação avançada de arrays e objetos em JavaScript. | - || 
