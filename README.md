@@ -1,8 +1,8 @@
  # 100 days of javascript
 
-## Incio dos desafios 01/02/2024
+## Início dos desafios 01/02/2024
 
-## Terminio dos desafios 11/05/2024
+## Término dos desafios 11/05/2024
 
 | Dia  | Desafio                                                   | Recursos                                           | Status  |
 |------|-----------------------------------------------------------|----------------------------------------------------|--------  |
